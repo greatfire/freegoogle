@@ -1,5 +1,6 @@
-freegoogle
+freegoogle (deprecated)
 ==========
+## This repo is no longer maintained. Please use the new version listed on https://github.com/greatfire/wiki/wiki
 
 Google mirror that can be used to make Google search etc available in places where it is blocked, eg China. 
 For list of live websites using this code check out https://github.com/greatfire/wiki.
